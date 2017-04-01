@@ -1,5 +1,5 @@
 <?php
-  $title = 'Variables';
+  $title = 'Eileen\'s Exercise 7: PHP Variables';
   $name = 'Eileen';
   $sum = 4+4;
   $sum2 = 3+3;
